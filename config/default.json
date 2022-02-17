@@ -2,7 +2,7 @@
     "mysql": {
         "banco-de-dados": "trello",
         "usuario": "root",
-        "senha": "87057774Carol.",
+        "senha": "123456Carol.",
         "host": "localhost"
     },
     "api": {
